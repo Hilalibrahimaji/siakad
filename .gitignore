@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# File Sensitif
+.env
+Array.java
+ArrayListTest.java
+HashMapTest.java
+Throw.java
+Throws.java
+TryCatchFinally.java
+
 # Log file
 *.log
 
